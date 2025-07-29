@@ -1,3 +1,3 @@
 # myfirstrepo
 This is my first Git Repository. <br>
-Author - Dhoni Pate
+Author - Dhoni Patel
